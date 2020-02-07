@@ -1,0 +1,1 @@
+# digit77-static-cdn
